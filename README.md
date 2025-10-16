@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Jesse Krinetz. I am a Statistics Major and Global Health Minor at Villanova University. Welcome to my portfolio! Here you'll find data projects that showcase my work in: Statistical modeling, Data Analysis & Data Visualization. 
+
+
 
 <!--
 **JesseKrinetz/JesseKrinetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
